@@ -5,7 +5,7 @@ It is a simple implimentation of using/adding media files in an android applicat
 
 You can download the compiled APK file and install it in your android phone.
 
-[Download Link] (https://bit.ly/ArrowMessenger)
+[Download Link] (https://bit.ly/EAcommunityApp)
 
 
 #### Follow Abae Akili
